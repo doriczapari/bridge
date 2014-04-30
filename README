@@ -1,0 +1,3 @@
+This code is from Unit 4 of Design of Computer Programs at Udacity.com (https://www.udacity.com/course/cs212). Some part of it was presented to us in the lesson but about 90% is what we had to fill in by ourselves after understanding the concepts behind each part. 
+
+It solves a logic puzzle called "the bridge and torch problem" (http://en.wikipedia.org/wiki/Bridge_and_torch_problem). This is a generalized version so it can take any number of people.
